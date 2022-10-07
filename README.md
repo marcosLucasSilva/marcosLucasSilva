@@ -2,6 +2,8 @@
 <div> 
   <a href = "mailto:marcos.curriculo.lucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoslucassilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://medium.com/@marcos.curriculo.lucas" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 ##
@@ -9,9 +11,7 @@
 - Sou formado em **Ciência da computação** e estou fazendo pós em **Big Data e Analytics**.
 - Atuo também como **Cientista de Dados** no Observatorio Social do Brasil e no Instituto Health Lake, como trabalho voluntário. 
 
- - 🧭 Possuo experiência e conhecimento com Python, SQL, modelagem de dados e algoritmos de machine learning além de ferramentar como Power BI, Data Studio, AWS, Pentaho, Nifi dentre outras.
-- 👀 Tenho interesse na área de dado como cientista ou engenheiro
-- 🌱 Atualmente estou aprendendo tecnicas avancadas de otimizaçao de consultas em SQL
+ - Possuo experiência e conhecimento com Python, SQL, modelagem de dados e algoritmos de machine learning além de ferramentar como Power BI, Data Studio, AWS, Pentaho, Nifi dentre outras.
 ##
 <div align="center">
   <a href="https://github.com/rafaballerini">
