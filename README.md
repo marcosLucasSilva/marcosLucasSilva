@@ -6,8 +6,8 @@
 
 ##
 - 🔨 Atualmente trabalho com Data Driven na Ambiente Livre. 
-Sou formado em *Ciência da computação* e estou fazendo pós em *Big Data e Analytics*.
-Atuo também como Cientista de Dados no Observatorio Social do Brasil e no Instituto Health Lake, como trabalho voluntário. 
+- Sou formado em **Ciência da computação** e estou fazendo pós em **Big Data e Analytics**.
+- Atuo também como **Cientista de Dados** no Observatorio Social do Brasil e no Instituto Health Lake, como trabalho voluntário. 
 
  - 🧭 Possuo experiência e conhecimento com Python, SQL, modelagem de dados e algoritmos de machine learning além de ferramentar como Power BI, Data Studio, AWS, Pentaho, Nifi dentre outras.
 - 👀 Tenho interesse na área de dado como cientista ou engenheiro
